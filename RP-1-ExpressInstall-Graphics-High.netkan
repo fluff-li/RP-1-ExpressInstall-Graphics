@@ -1,5 +1,5 @@
 spec_version: v1.31
-identifier: RP-1-ExpressInstall-Graphics-High
+identifier: RP-1-ExpressInstall-Graphics-High-Fluff-li
 name: High Graphics
 abstract: Express Installation for RP-1 Graphics - High Res version
 license: CC-BY-NC-SA-4.0
@@ -31,8 +31,6 @@ depends:
   - name: PlanetShine
     suppress_recommendations: true
   - name: CanaveralPads
-    suppress_recommendations: true
-  - name: RP-1-ExpressInstall
 provides:
   - RP-1-ExpressInstall-Graphics
 conflicts:
